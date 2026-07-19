@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "project-scaffolder": {
+      "type": "stdio",
+      "command": "C:/learnings/mcp-scaffolder/.venv/Scripts/python.exe",
+      "args": ["C:/learnings/mcp-scaffolder/server.py"],
+      "env": {
+        "PROJECTS_DIR": "C:/learnings/mcp-scaffolder/projects"
+      }
+    }
+  }
+}
